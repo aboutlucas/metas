@@ -5,4 +5,8 @@ O que a de ser feito esse ano
 
 ## AngularJs(1/3)
 
-## 
+## RubyOnRails(1/3)
+
+## Palestra(0/1)
+
+## Livro (0/1)
